@@ -1,0 +1,31 @@
+{
+  "name": "collaborative-board",
+  "version": "1.0.0",
+  "description": "A real-time whiteboard which stays as-is even on refreshing the page.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanshah0206/Collaborative-Board.git"
+  },
+  "keywords": [
+    "SocketIO",
+    "NodeJS",
+    "Whiteboard",
+    "Intact",
+    "on",
+    "Reload"
+  ],
+  "author": "Karan Shah",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/karanshah0206/Collaborative-Board/issues"
+  },
+  "homepage": "https://github.com/karanshah0206/Collaborative-Board#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
